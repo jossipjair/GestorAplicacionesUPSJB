@@ -1,0 +1,34 @@
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\bin\Debug\IU.exe.config
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\bin\Debug\IU.exe
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\bin\Debug\IU.pdb
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\bin\Debug\IU.xml
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.frmPrincipal.resources
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.Resources.resources
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.exe
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.xml
+C:\Users\Jossip\Documents\Visual Studio 2012\Projects\ProyeccionSocial\IU\obj\Debug\IU.pdb
+F:\ProyeccionSocial\IU\bin\Debug\IU.exe.config
+F:\ProyeccionSocial\IU\obj\Debug\IU.exe
+F:\ProyeccionSocial\IU\obj\Debug\IU.xml
+F:\ProyeccionSocial\IU\obj\Debug\IU.pdb
+F:\ProyeccionSocial\IU\bin\Debug\IU.exe
+F:\ProyeccionSocial\IU\bin\Debug\IU.pdb
+F:\ProyeccionSocial\IU\bin\Debug\IU.xml
+F:\ProyeccionSocial\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+F:\ProyeccionSocial\IU\obj\Debug\IU.frmPrincipal.resources
+F:\ProyeccionSocial\IU\obj\Debug\IU.Resources.resources
+F:\ProyeccionSocial\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+D:\ProyeccionSocial\IU\bin\Debug\IU.exe.config
+D:\ProyeccionSocial\IU\obj\Debug\IU.exe
+D:\ProyeccionSocial\IU\obj\Debug\IU.xml
+D:\ProyeccionSocial\IU\obj\Debug\IU.pdb
+D:\ProyeccionSocial\IU\bin\Debug\IU.exe
+D:\ProyeccionSocial\IU\bin\Debug\IU.pdb
+D:\ProyeccionSocial\IU\bin\Debug\IU.xml
+D:\ProyeccionSocial\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+D:\ProyeccionSocial\IU\obj\Debug\IU.frmPrincipal.resources
+D:\ProyeccionSocial\IU\obj\Debug\IU.Resources.resources
+D:\ProyeccionSocial\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+D:\ProyeccionSocial\IU\obj\Debug\IU.frmAbout.resources
